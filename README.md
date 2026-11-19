@@ -15,7 +15,7 @@ O Whisper erra mais nos sotaques regionais, mas não fica mais lento quando erra
 
 ## Como rodar
 
-1. Abra `whisper_dialetos.ipynb` no Google Colab e selecione GPU T4.
+1. Abra `ASR_dialetos_BR_benchmark.ipynb` no Google Colab e selecione GPU T4.
 2. Guarde a chave do Gemini em Secrets, com o nome `GEMINI_API_KEY`.
 3. Execute as células em ordem: envie os áudios (`audios.zip`) ou baixe-os com `yt-dlp`, e depois as transcrições de referência (`GSGT_transcricoes.zip`).
 
